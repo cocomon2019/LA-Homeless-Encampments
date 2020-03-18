@@ -3,6 +3,7 @@
 Team 7 - Joyce Tao, Christian Fernandez, Orlando Lepe, Dikshant Dhall, and Richardo Flores 
 
 Introduction 
+
 Homeless encampments are locations where one or more homeless people live in an unsheltered area. These encampments can be found on properties owned by private individuals or companies, or owned by local, state, and federal governmental agencies. 
 
 Per National Alliance to End Homelessness recorded State of California have a total of 129,972 of people homes on a given night and 33 homeless per 10,000 people in the general population. 
