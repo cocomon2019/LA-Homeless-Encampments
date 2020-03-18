@@ -42,15 +42,7 @@ Instagram: https://www.instagram.com/myla311/
 Office Hours:	Mon-Fri: 7:00am-7:00pm
 Weekend & Holidays: 8:00am-4:45pm
 
-Popular Services
-
-	Reporting dumping or trash collection issues
-	Requesting bulky item pick-up appointments
-	Reporting potholes, graffiti, street light problems
-	Parking Enforcement
-	Animal Services
-	General City and government information
-
+Popular Services inclcude: Reporting dumping or trash collection issues, Requesting bulky item pick-up appointments, Reporting potholes, graffiti, street light problems, Parking Enforcement, Animal Services, General City and government information.
 
 Data Description
 
