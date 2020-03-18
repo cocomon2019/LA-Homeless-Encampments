@@ -12,7 +12,7 @@ As showed below homeless record in Los Angeles from 2016 to 2018.
 
 Year 	Total Homeless Population 
 
-016	39,587
+2016	39,587
 
 2017	45,978
 
