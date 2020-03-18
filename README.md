@@ -78,6 +78,9 @@ Data Cleaning and Analysis
 We used Python and Tableau to perform the data cleaning, data analysis, and visualization. 
 
 •	Python: Pandas, Numpy
-•	Machine Learning: Prophet (Facebook) and Plotly
+
+• Machine Learning: Prophet (Facebook) and Plotly
+
 •	Tableau: dashboard and heat map 
+
 •	HTML for web development 
