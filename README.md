@@ -30,7 +30,7 @@ Homeless is a crisis point in Los Angeles, we want us data to investigate the fo
 
 MYLA311 Service Request
 
-The City of Los Angeles MYLA311 Service Request created to the general public for non-emergency services, such as bulky items, containers, service not complete, illegal dumpling pickup, metal/household appliances, etc.  \
+The City of Los Angeles MYLA311 Service Request created to the general public for non-emergency services, such as bulky items, containers, service not complete, illegal dumpling pickup, metal/household appliances, etc.  
 
 Citizens can connect with MYLA311 Service Request via MYLA311 mobile app, MyLA311 website, by calling or emailing the MyLA311 Contact Center team, or via social media where you can find @MyLA311 on Twitter and Instagram.
 
