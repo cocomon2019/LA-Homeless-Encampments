@@ -11,9 +11,13 @@ Per National Alliance to End Homelessness recorded State of California have a to
 As showed below homeless record in Los Angeles from 2016 to 2018. 
 
 Year 	Total Homeless Population 
-2016	39,587
+
+016	39,587
+
 2017	45,978
+
 2018	45,039
+
 Total 	180,125
 
 (Source: https://www.lahsa.org/data?id=13-2019-homeless-count-by-community-city )
