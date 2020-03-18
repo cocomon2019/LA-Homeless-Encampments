@@ -24,8 +24,9 @@ Homeless is a crisis point in Los Angeles, we want us data to investigate the fo
 	How do City residents report homeless encampments? 
 	How can the City better allocate resource? 
 
-MYLA311 Service Request 
-The City of Los Angeles MYLA311 Service Request created to the general public for non-emergency services, such as bulky items, containers, service not complete, illegal dumpling pickup, metal/household appliances, etc.  
+MYLA311 Service Request
+
+The City of Los Angeles MYLA311 Service Request created to the general public for non-emergency services, such as bulky items, containers, service not complete, illegal dumpling pickup, metal/household appliances, etc.  \
 
 Citizens can connect with MYLA311 Service Request via MYLA311 mobile app, MyLA311 website, by calling or emailing the MyLA311 Contact Center team, or via social media where you can find @MyLA311 on Twitter and Instagram.
 
@@ -37,7 +38,8 @@ Instagram: https://www.instagram.com/myla311/
 Office Hours:	Mon-Fri: 7:00am-7:00pm
 Weekend & Holidays: 8:00am-4:45pm
 
-Popular Services 
+Popular Services
+
 	Reporting dumping or trash collection issues
 	Requesting bulky item pick-up appointments
 	Reporting potholes, graffiti, street light problems
@@ -46,7 +48,8 @@ Popular Services
 	General City and government information
 
 
-Data Description 
+Data Description
+
 311 service request and compliant data are being collect by Los Angeles Open Data at https://data.lacity.org/A-Well-Run-City/Encampment-Tracking/e3uh-bzt7. We explore the 311 datasets in Los Angeles particular in Encampment Tracking for the periods between from 2016 to 2018. 
 
 We downloaded three years datasets via csv format which contain over 3 Million data. Here are some of the collected data given variable. 
@@ -69,7 +72,9 @@ We downloaded three years datasets via csv format which contain over 3 Million d
 16.	Location: duplicate entry of the latitude
 
 Other supporting data include City Employee Payroll from Ron Galperin LA Controller at https://controllerdata.lacity.org/Payroll/City-Employee-Payroll/pazn-qyym/data.  This data contain the payroll information for all Los Angeles City Employees including the City’s three proprietary department: Water & Power, Airports and Harbor, which contain 371,455 records. 
-Data Cleaning 
+
+Data Cleaning and Analysis 
+
 We used Python and Tableau to perform the data cleaning, data analysis, and visualization. 
 
 •	Python: Pandas, Numpy
