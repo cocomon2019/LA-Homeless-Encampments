@@ -1,7 +1,7 @@
 # Project-3
 
 Team 7 - Joyce Tao, Christian Fernandez, Orlando Lepe, Dikshant Dhall, and Richardo Flores 
-Github: https://dikshantdhall.github.io/web/ 
+https://chrisfdzl.github.io/Sources.html
 
 Introduction 
 
