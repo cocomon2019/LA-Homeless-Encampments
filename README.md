@@ -80,4 +80,4 @@ We used Python and Tableau to perform the data cleaning, data analysis, and visu
 
 •	Tableau: dashboard and heat map 
 
-•	HTML for web development 
+•	HTML/css for web development 
