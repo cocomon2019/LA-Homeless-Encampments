@@ -44,7 +44,7 @@ Popular Services inclcude: Reporting dumping or trash collection issues, Request
 
 Data Description
 
-311 service request and compliant data are being collect by Los Angeles Open Data at https://data.lacity.org/A-Well-Run-City/Encampment-Tracking/e3uh-bzt7. We explore the 311 datasets in Los Angeles particular in Encampment Tracking for the periods between from 2016 to 2018. 
+311 service request and compliant data are being collect by MyLA311.lacity.org and data.lacity.org for Encampment Tracking. We explore the 311 datasets in Los Angeles particular in Encampment Tracking for the periods between from 2016 to 2018. 
 
 We downloaded three years datasets via csv format which contain over 3 Million data. Here are some of the collected data given variable. 
 
@@ -65,7 +65,7 @@ We downloaded three years datasets via csv format which contain over 3 Million d
 15.	Longitude: Mapping Location 
 16.	Location: duplicate entry of the latitude
 
-Other supporting data include City Employee Payroll from Ron Galperin LA Controller at https://controllerdata.lacity.org/Payroll/City-Employee-Payroll/pazn-qyym/data.  This data contain the payroll information for all Los Angeles City Employees including the City’s three proprietary department: Water & Power, Airports and Harbor, which contain 371,455 records. 
+Other supporting data include City Employee Payroll from Ron Galperin LA Controller at https://controllerdata.lacity.org/Payroll/City-Employee-Payroll/pazn-qyym/data.  This data contain the payroll information for all Los Angeles City Employees including the City’s three proprietary department: Water & Power, Airports and Harbor, which contain 371,455 records. Los Angeles Homesless Service Authority shows record of the homeless count by Community/City. 
 
 Data Cleaning and Analysis 
 
