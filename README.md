@@ -1,6 +1,6 @@
-# Project-3
+LA Homeless Encampments 
 
-Team 7 - Joyce Tao, Christian Fernandez, Orlando Lepe, Dikshant Dhall, and Richardo Flores 
+Joyce Tao, Christian Fernandez, Orlando Lepe, Dikshant Dhall, and Richardo Flores 
 https://chrisfdzl.github.io/Sources.html
 
 Introduction 
