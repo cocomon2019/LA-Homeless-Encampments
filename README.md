@@ -1,4 +1,4 @@
-LA Homeless Encampments 
+#LA Homeless Encampments 
 
 Joyce Tao, Christian Fernandez, Orlando Lepe, Dikshant Dhall, and Richardo Flores 
 https://chrisfdzl.github.io/Sources.html
